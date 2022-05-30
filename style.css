@@ -5,7 +5,7 @@
 
 body {
     display: flex;
-    background: url(/pattern/protruding-squares\ \(1\).svg);
+    background: url(pattern/protruding-squares\ \(1\).svg);
     justify-content: center;
     color: rgb(45,44,52);
 }
