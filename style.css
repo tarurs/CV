@@ -5,7 +5,7 @@
 
 body {
     display: flex;
-    background: url(/pattern/cup-of-coffee-ga9fb0a8dc_1920.jpg);
+    background: url(/pattern/protruding-squares\ \(1\).svg);
     justify-content: center;
     color: rgb(45,44,52);
 }
@@ -26,7 +26,6 @@ aside {
     flex-wrap: wrap;
     flex-direction: column;
     height: 100%;
-    background-color: rgba(75,71,88, 0.9);
     border-right: 3px solid #e6552c;
     color: #eeeeee;
     font-family: monospace;
@@ -142,4 +141,13 @@ li {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+.more_contacts {
+    display: inline-flex;
+    margin: 2rem 0;
+}
+
+.more_contacts a{
+    margin: 0 10px;
 }
