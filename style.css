@@ -5,7 +5,7 @@
 
 body {
     display: flex;
-    background: url(/pattern/cup-of-coffee-ga9fb0a8dc_1920.jpg);
+    background: url(pattern/cup-of-coffee-ga9fb0a8dc_1920.jpg);
     justify-content: center;
     color: rgb(45,44,52);
 }
